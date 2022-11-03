@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Welcome To Putri Cantik</string>
+    <string-array name="array_Jalur_Pendaftaran">
+        <item>Jalur Pendaftaran</item>
+        <item>Tes Tertulis</item>
+        <item>Jalur Tanpa Tes</item>
+        <item>Ujian Saringan Masuk</item>
+    </string-array>
+</resources>
